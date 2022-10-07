@@ -163,6 +163,7 @@ h2.heading {
         width: 20rem;
         height: 50rem;
         margin: 1.4rem 1.4rem;
+        margin-left: 1.9rem;
         flex-direction: column;
         border-bottom-left-radius: 1.6rem;
     }
